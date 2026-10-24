@@ -1,0 +1,28 @@
+Weather FAQ: Rain probability
+
+The probability of precipitation is the likelihood of measurable
+precipitation occurring at a specified location during a specified
+forecast period. A 70% probability does not mean that it will rain
+for 70% of the day.
+
+Weather FAQ: Umbrella decisions
+
+When deciding whether to carry an umbrella, consider the forecast
+precipitation probability, expected rainfall amount, forecast period,
+and the consequences of getting wet. A high probability of rain is
+a reason to consider carrying an umbrella. A low probability does
+not guarantee that it will stay dry.
+
+Weather safety: Strong winds
+
+Strong winds can make driving difficult, particularly for high-profile
+vehicles, motorcycles, and vehicles crossing exposed bridges. Follow
+official weather alerts and local road-safety guidance. Do not rely
+on a general weather summary when an official warning is available.
+
+Weather FAQ: Temperature
+
+Maximum temperature is the highest temperature forecast for a period.
+Minimum temperature is the lowest temperature forecast for that period.
+These values describe the expected temperature range, not the exact
+temperature at every hour.
